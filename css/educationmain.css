@@ -1,0 +1,96 @@
+#edu{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#head1, #allthree, #school, #inter, #college{
+    display: flex;
+    align-items: center;
+}
+
+.big{
+    font-family: 'EB Garamond', serif;
+    font-size: 55px;
+    font-weight: 500;
+
+}
+
+.medium{
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.small{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+#school, #college{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.narimage{
+    background-color: rgba(245, 245, 245, 0.7);
+    border-radius: 30%;
+    padding: 15px;
+    margin-right: 10px;
+}
+
+.schoolmatter, #collegematter{
+    background-color: rgba(56, 46, 71, 0.7);
+    padding: 10px 30px 10px 20px;
+    border-radius: 15px;
+    color: #160e23e8;
+    /* background-color: #e3d7e1; */
+    box-shadow: 5px 10px;
+}
+
+#vitimage{
+    background-color: rgba(245, 245, 245, 0.55);
+    border-radius: 30%;
+    padding: 30px;
+    margin-right: 20px;
+    /* box-shadow: 5px 10px; */
+}
+
+.webs{
+    margin-left: 30px;
+    border-radius: 50%;
+}
+
+#certifi{
+    margin-top: 70px;
+    margin-left: 150px;
+}
+
+#codeninja{
+    height: 100px;
+    width: 200px;
+    margin-right: 50px;
+}
+
+#sideby{
+    display: flex;
+    align-items: center;
+}
+
+#madeby{
+    /* border: 1px solid red; */
+    margin-top: 50px;
+    font-family: 'EB Garamond', serif;
+    display: flex;
+    height: 35px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to right, #00000060, rgba(34, 34, 34, 0) ,#00000060);
+}
+
+
+
+
+
+

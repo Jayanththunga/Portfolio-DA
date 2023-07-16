@@ -1,0 +1,87 @@
+.medium{
+    font-family: 'EB Garamond', serif;
+    font-size: 45px;
+    font-weight: 500;
+    margin-left: 100px;
+
+}
+
+.small{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 200;
+    font-size: 27px;
+    margin-left: 100px;    
+}
+
+.vsmall{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+    margin-left: 100px;    
+}
+
+#heading{
+    margin: 50px 0px 2px 100px;
+    
+}
+
+#part1{
+    display: flex;
+    align-items: center;
+}
+
+#matt{
+    font-weight: 200;
+    text-align: center;   
+}
+
+#contac{
+    margin-top: 30px;
+}
+
+.con{
+    padding-top: 10px;
+}
+
+#icons{
+    display: flex;
+    height: 47px;
+    width: 47px;
+    margin-left: 100px;
+}
+
+#bigimg{
+    margin: 0px 20px 0px 150px;
+}
+
+.iconsu{
+    margin-top: 20px;
+    padding-left: 30px;
+}
+
+#resume{
+    padding: 5px 20px;
+    margin-top: 50px;
+    margin-left: 250px;
+    border: none;
+    background-color: rgba(56, 46, 71, 0.7);
+    border-radius: 15px;
+}
+
+#resume a{
+    text-decoration: none;
+}
+
+
+
+#madeby{
+    /* border: 1px solid red; */
+    margin-top: 50px;
+    font-family: 'EB Garamond', serif;
+    display: flex;
+    height: 35px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to right, #00000060, rgba(34, 34, 34, 0) ,#00000060);
+}
